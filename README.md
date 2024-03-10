@@ -15,7 +15,7 @@ Products
 ○ Bellabeat membership: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals.
 
 #####################
-Raw Cp0de and plots are available here  _[Results](https://github.com/rahulpathak-DA/Google_Wearable_health/blob/main/Raw_Code%20and%20Plots.pdf)_
+Raw Code and plots are available here  _[Results](https://github.com/rahulpathak-DA/Google_Wearable_health/blob/main/Raw_Code%20and%20Plots.pdf)_
 
 Recommendations and Findings Summary:
 1.	Data Non-Uniformity:
